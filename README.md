@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 我是 socinuo！
 
-<!--
-**socinuo/socinuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
+- 🎓 计算机专业大一学生
+- 🌱 正在学习：Python / C++ / 前端开发
+- 💡 对民航和计算机交叉领域很感兴趣
+- 📚 目前在探索 GitHub 和 Git 的基础用法
 
-Here are some ideas to get you started:
+## 我的技能
+- 熟悉基础的 C/C++ 语法
+- 正在学习 Python 数据处理
+- 了解前端基础（HTML/CSS）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 学习中
+- 版本控制（Git/GitHub）
+- 数据结构与算法
+- 计算机网络基础
