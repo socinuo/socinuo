@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>520领取专属对象神器</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #b8b3ef;
+            font-family: "微软雅黑", sans-serif;
+        }
+        .box {
+            background: white;
+            width: 320px;
+            padding: 40px 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        input {
+            width: 100%;
+            height: 45px;
+            font-size: 20px;
+            padding: 0 10px;
+            text-align: center;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            margin-top: 30px;
+            width: 150px;
+            height: 45px;
+            border: none;
+            background: #2d89ef;
+            color: white;
+            font-size: 18px;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>情人节领取对象神器</h1>
+        <h2>请输入“520”</h2>
+        <input id="code" placeholder="输入520">
+        <button onclick="check()">一键领取！</button>
+    </div>
+
+    <script>
+        function check() {
+            let value = document.getElementById("code").value;
+            if (value === "520") {
+                window.location.href = "success.html";
+            } else {
+                alert("请输入520！");
+            }
+        }
+    </script>
+</body>
+</html>
